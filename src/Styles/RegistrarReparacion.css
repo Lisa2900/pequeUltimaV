@@ -1,0 +1,5 @@
+.custom-modal .modal-wrapper {
+    border-radius: 15px; /* Ajusta este valor según tus preferencias */
+    overflow: hidden; /* Para asegurarte de que el contenido no se desborde */
+  }
+  

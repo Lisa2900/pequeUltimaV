@@ -1,0 +1,15 @@
+@keyframes slideIn {
+    from {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  .popover-image {
+    animation: slideIn 0.3s ease-out;
+  }
+  

@@ -1,0 +1,24 @@
+/* styles.css */
+.sales-list-container {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  .sales-list-container::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .sales-list-container::-webkit-scrollbar-track {
+    background: #232323;
+    border-radius: 10px;
+  }
+  
+  .sales-list-container::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  
+  .sales-list-container::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  

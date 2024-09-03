@@ -1,0 +1,24 @@
+/* styles.css */
+.custom-scroll-container {
+    overflow-y: auto; /* Habilita el scroll vertical */
+    max-height: 400px; /* Altura máxima del contenedor */
+  }
+  
+  .custom-scroll-container::-webkit-scrollbar {
+    width: 8px; /* Ancho del scroll */
+  }
+  
+  .custom-scroll-container::-webkit-scrollbar-track {
+    background: #232323; /* Fondo del track del scroll */
+    border-radius: 8px;
+  }
+  
+  .custom-scroll-container::-webkit-scrollbar-thumb {
+    background: #888; /* Color del thumb del scroll */
+    border-radius: 8px;
+  }
+  
+  .custom-scroll-container::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Color del thumb del scroll al pasar el mouse */
+  }
+  

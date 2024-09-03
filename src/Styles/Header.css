@@ -1,0 +1,23 @@
+/* Header.css */
+.custom-date {
+    font-family: 'Montserrat', sans-serif; /* Cambia a la fuente que prefieras */
+    font-size: 1.2em; /* Tamaño de la fuente */
+    font-weight: bold; /* Grosor de la fuente */
+    color: #FFFFFF; /* Color del texto */
+    text-transform: uppercase; /* Mayúsculas */
+    margin: 0; /* Elimina el margen para ajustar el espaciado */
+    padding: 0; /* Elimina el relleno para ajustar el espaciado */
+    margin-bottom: -10px; /* Ajusta este valor según sea necesario */
+  }
+  
+  .custom-time {
+    font-family: 'Montserrat', sans-serif; /* Cambia a la fuente que prefieras */
+    font-size: 1.5em; /* Tamaño de la fuente */
+    font-weight: bold; /* Grosor de la fuente */
+    color: #ffffff; /* Color del texto */
+    margin: 0; /* Elimina el margen para ajustar el espaciado */
+    padding: 0; /* Elimina el relleno para ajustar el espaciado */
+    margin-top: -10px; /* Ajusta este valor según sea necesario */
+    text-transform: uppercase; /* Mayúsculas */
+  }
+  
